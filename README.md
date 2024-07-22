@@ -7,6 +7,14 @@ I love C++ for the control it gives to it's user and the it's high-performance. 
 
 #
 
+
+
+### My favourite line of code:
+
+![carbon](https://github.com/user-attachments/assets/a17d5db4-6c7b-4f54-9364-a9acf0910f47)
+
+#
+
 ### Things I love (besides C++):
 - Space 🪐 
 - Sports 👟
@@ -17,11 +25,6 @@ I love C++ for the control it gives to it's user and the it's high-performance. 
 
 #
 
-### My favourite line of code:
-
-![carbon](https://github.com/user-attachments/assets/a17d5db4-6c7b-4f54-9364-a9acf0910f47)
-
-#
 
 ### Stats 📊
 ![PerniShoes' GitHub stats](https://github-readme-stats.vercel.app/api?username=PerniShoes&show_icons=true&theme=midnight-purple)
