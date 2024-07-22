@@ -12,4 +12,4 @@ I love C++ for the control it gives to it's user and the it's high-performance. 
 - Math and Physics 🤓
 
 
-![PerniShoes' GitHub stats](https://github-readme-stats.vercel.app/api?username=PerniShoes)](https://github.com/anuraghazra/github-readme-stats &theme=midnight-purple)
+![PerniShoes' GitHub stats](https://github-readme-stats.vercel.app/api?username=PerniShoes&show_icons=true&theme=midnight-purple)
