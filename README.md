@@ -17,7 +17,8 @@ I love C++ for the control it gives to it's user and the it's high-performance. 
 
 #
 
-![GitHub contributors from allcontributors.org](https://img.shields.io/github/all-contributors/PerniShoes/all-contributors)
+![GitHub contributors from allcontributors.org](https://img.shields.io/github/all-contributors/PerniShoes/PerniShoes)
+
 
 
 ### Stats 📊
