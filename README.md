@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![Marek_Lens](https://github.com/user-attachments/assets/c95fc092-00a1-4a0c-8c98-6fc3fa7f10b3)
 
