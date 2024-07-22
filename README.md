@@ -11,7 +11,7 @@ I love C++ for the control it gives to it's user and the it's high-performance. 
 
 ### My favourite line of code:
 
-![carbon](https://github.com/user-attachments/assets/a17d5db4-6c7b-4f54-9364-a9acf0910f47)
+<img src="https://github.com/user-attachments/assets/a17d5db4-6c7b-4f54-9364-a9acf0910f47" width="800" height="400">
 
 #
 
