@@ -2,11 +2,11 @@
 
 <img align="right" alt="C++ icon" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
                    
-I studied at DAE (Digital Arts and Entertainment) for a year.   
-Was enlisted for a Game Development course taught in C++. 
-My love for C++ comes from the control it gives to it's user and the it's high-performance.   
-I love learning as much as possible about C++ and it's uses.  
-Feel free to check out my repositories and progress I am making :D!  
+I studied at DAE (Digital Arts and Entertainment) for a year.     
+Was enlisted for a Game Development course taught in C++.     
+My love for C++ comes from the control it gives to it's user and the it's high-performance.     
+I love learning as much as possible about C++ and it's uses.    
+Feel free to check out my repositories and progress I am making :D!    
 
 #
 
