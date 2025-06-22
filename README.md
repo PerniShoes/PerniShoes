@@ -4,8 +4,9 @@
 <img align="right" alt="C++ icon" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
 ### Hello!
-### I am a 24 years old, ambitious and always smiling C++ programmer.
-### Looking for work/internship to improve my C++ knowledge and abilities :D. 
+I am a 24 years old, ambitious and always smiling C++ programmer.
+Looking for work/internship to improve my C++ knowledge and abilities :D. 
+#
 
 ### How I met C++:
 I studied at Digital Arts and Entertainment three years ago, enlisted for a Game Development course taught with C++.     
