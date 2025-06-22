@@ -10,9 +10,11 @@ Looking for work/internship to improve my C++ knowledge and abilities :D.
 
 ### How I met C++:
 I studied at Digital Arts and Entertainment three years ago, enlisted for a Game Development course taught with C++.   
+
 I sadly failed to get to second year, but learnt a lot. Both about C++ best practices and about myself.   
 Had a rough year due to mental health and didn't do anything with C++.   
 Worked A LOT on myself, my habits, my mental health and got to a very good point in my life.   
+
 Around 2 months ago (22.04.2025) I decided to go back to learning C++ and to find a life-long career with it.  
 
 ### Why? C++:
