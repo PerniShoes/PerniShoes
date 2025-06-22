@@ -18,8 +18,9 @@ Worked A LOT on myself, my habits, my mental health and got to a very good point
 Around 2 months ago (22.04.2025) I decided to go back to learning C++ and to find a life-long career with it.  
 
 ### Why? C++:
-My love for it comes from the control it gives to it's user and it's high-performance. I really like how much there is to learn in C++.    
-I love learning as much as possible about it and it's uses. There is never a "*enough* knowledge" with this beast.       
+My love for it comes from the control it gives to it's user and it's high-performance.  
+I really like how much there is to learn in C++.      
+I love learning as much as possible about it and it's uses. There is never a "*enough* knowledge" with this beast.         
 #
 
 ### My favourite line of code:
