@@ -2,12 +2,20 @@
 ![Marek_Lens](https://github.com/user-attachments/assets/c95fc092-00a1-4a0c-8c98-6fc3fa7f10b3)
 
 <img align="right" alt="C++ icon" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-                   
-I studied at DAE (Digital Arts and Entertainment) for a year. Was enlisted for a Game Development course taught in C++.     
-My love for C++ comes from the control it gives to it's user and it's high-performance. I really like how much there is to learn in C++.    
-I love learning as much as possible about C++ and it's uses.    
-Feel free to check out my repositories and progress I am making :D!    
 
+### Hello!
+### I am a 24 years old, ambitious and always smiling C++ programmer.
+### Looking for work/internship to improve my C++ knowledge and abilities :D. 
+
+### How I met C++:
+I studied at Digital Arts and Entertainment three years ago, enlisted for a Game Development course taught with C++.     
+I sadly failed to get to second year, but learnt a lot. Both about C++ best practices and about myself. Had a rough year due to mental health and didn't do anything with C++.
+I worked A LOT on myself, my habits, my mental health and got to a very good point in my life.
+Around 2 months ago (22.04.2025) I decided to go back to learning C++ and to find a life-long career with it.
+
+### Why I chose C++:
+My love for it comes from the control it gives to it's user and it's high-performance. I really like how much there is to learn in C++.    
+I love learning as much as possible about it and it's uses. There is never a "*enough* knowledge" with this beast.       
 #
 
 
@@ -25,13 +33,5 @@ Feel free to check out my repositories and progress I am making :D!
 - Strategy Games♟️
 - Math and Physics 🤓
 - PixelArt 👾
-
 #
 
-
-### Stats 📊
-![PerniShoes' GitHub stats](https://github-readme-stats.vercel.app/api?username=PerniShoes&show_icons=true&theme=midnight-purple)
-
-## More stats
-
-![GitHub contributors from allcontributors.org](https://img.shields.io/github/all-contributors/PerniShoes/PerniShoes)
