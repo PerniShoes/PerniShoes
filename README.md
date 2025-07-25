@@ -32,6 +32,7 @@ I love learning as much as possible about it and it's uses. There is never a "*e
 - Space 🪐 
 - Sports 👟
 - Science 🔬
+- Socializing🫂
 - Starcraft 2 🕹️
 - Strategy Games♟️
 - Math and Physics 🤓
