@@ -8,20 +8,10 @@ I am a 24 years old, ambitious and always smiling C++ programmer.
 Looking for work/internship to improve my C++ knowledge and abilities :D. 
 #
 
-### How I met C++:
-I studied at Digital Arts and Entertainment three years ago, enlisted for a Game Development course taught with C++.   
-
-I sadly failed to get to second year, but learnt a lot. Both about C++ best practices and about myself.   
-Had a rough year and a half due to mental health and didn't do anything with C++.   
-Worked A LOT on myself, my habits, my mental health and got to a very good point in my life.   
-
-Around 2 months ago (22.04.2025) I decided to go back to learning C++ and to find a life-long career with it.  
-
-### Why? C++:
-My love for it comes from the control it gives to it's user and it's high-performance.  
-I really like how much there is to learn in C++.      
-I love learning as much as possible about it and it's uses. There is never a "*enough* knowledge" with this beast.         
-#
+### Some of my favourite projects:
+Conway's Game of life. With COLORS!  
+![maxresdefault (2)](https://github.com/user-attachments/assets/1391fc1a-cf63-4319-8d2e-fbd217bab837)  
+https://www.youtube.com/watch?v=0e2diY_aYDI&t=6s
 
 ### My favourite line of code:
 
