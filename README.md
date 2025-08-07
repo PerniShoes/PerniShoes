@@ -10,7 +10,7 @@ Looking for work/internship to improve my C++ knowledge and abilities :D.
 
 ### Some of my favourite projects:
 -   Conway's Game of life. With COLORS!  
-<img src="https://github.com/user-attachments/assets/1391fc1a-cf63-4319-8d2e-fbd217bab837" width="600" height="300">  
+<img src="https://github.com/user-attachments/assets/1391fc1a-cf63-4319-8d2e-fbd217bab837" width="600" height="300">      
 https://www.youtube.com/watch?v=0e2diY_aYDI&t=6s  
 
 #
