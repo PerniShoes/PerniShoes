@@ -6,12 +6,13 @@
 ### Hello!
 I am a 24 years old, ambitious and always smiling Junior C++ programmer.
 Looking for a position that allows me to develop my skills and make a meaningful contribution to the company’s success
+### Check out my repositories pinned below! 😊  
 #
 ### Contact info:  
 📧 marek2001lenss@gmail.com  
 🌐 https://www.linkedin.com/in/marek-lens/  
 #
-### Check out my repositories pinned below! 😊  
+
 ### Some of my favourite projects:  
 - Conway's Game of life. With COLORS!  
 <img src="https://github.com/user-attachments/assets/1391fc1a-cf63-4319-8d2e-fbd217bab837" width="400" height="240">
