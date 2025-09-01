@@ -11,6 +11,7 @@ Looking for a position that allows me to develop my skills and make a meaningful
 marek2001lenss@gmail.com  
 https://www.linkedin.com/in/marek-lens/  
 
+### Check out my repositories pinned below! 😊  
 ### Some of my favourite projects:  
 - Conway's Game of life. With COLORS!  
 <img src="https://github.com/user-attachments/assets/1391fc1a-cf63-4319-8d2e-fbd217bab837" width="400" height="240">
@@ -18,8 +19,6 @@ https://www.linkedin.com/in/marek-lens/
 https://www.youtube.com/watch?v=0e2diY_aYDI&t=6s     
 
 #
-
-### Check out my repositories pinned below! 
 
 ### Things I love (besides C++):
 - Space 🪐 
