@@ -7,9 +7,9 @@
 I am a 24 years old, ambitious and always smiling Junior C++ programmer.
 Looking for a position that allows me to develop my skills and make a meaningful contribution to the company’s success
 #
-📧 Contact info:  
-marek2001lenss@gmail.com  
-https://www.linkedin.com/in/marek-lens/  
+### Contact info:  
+📧 marek2001lenss@gmail.com  
+🌐 https://www.linkedin.com/in/marek-lens/  
 #
 ### Check out my repositories pinned below! 😊  
 ### Some of my favourite projects:  
