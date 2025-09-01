@@ -10,7 +10,7 @@ Looking for a position that allows me to develop my skills and make a meaningful
 📧 Contact info:  
 marek2001lenss@gmail.com  
 https://www.linkedin.com/in/marek-lens/  
-
+#
 ### Check out my repositories pinned below! 😊  
 ### Some of my favourite projects:  
 - Conway's Game of life. With COLORS!  
