@@ -5,7 +5,7 @@
 
 ### Hello!
 I am a 24 years old, ambitious and always smiling Junior C++ programmer.
-Looking for a position that allows me to develop my skills and make a meaningful contribution to the company’s success
+Looking for a position that allows me to make a meaningful contribution to the company’s success and develop my skills
 ### Check out my repositories pinned below! 😊  
 #
 ### Contact info:  
