@@ -4,7 +4,9 @@
 <img align="right" alt="C++ icon" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
 ### Hello!
-I am an always **smiling** and endlessly **dedicated** **C++** Developer looking to **contribute** to something **meaningful**. I bring strong **communication** and **collaboration** abilities, I enjoy working both in a **team** and **independently**. If you have any projects where I could be a **good fit** and help with **project delivery**, I’d **love** to hear from you :) Feel free to send me an email or a LinkedIn DM :)
+I am an always **smiling** and endlessly **dedicated** **C++** Developer looking to **contribute** to something **meaningful**.  
+I bring strong **communication** and **collaboration** abilities, I enjoy working both in a **team** and **independently**.  
+If you have any projects where I could be a **good fit** and help with **project delivery**, I’d **love** to hear from you :) Feel free to send me an email or a LinkedIn DM :)
 ### Check out my repositories pinned below! 😊  
 #
 ### Contact info:  
