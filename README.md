@@ -14,11 +14,13 @@ I am an always **smiling** and endlessly **dedicated** **C++** Developer looking
 
 ### Some of my favourite projects:  
 - Duelyst remake (work in progress)
-<img width="400" height="240" alt="DuelystRemake" src="https://github.com/user-attachments/assets/e854196a-7232-4910-b431-8e19ffc00f60" />  
+<img width="400" height="240" alt="DuelystRemake" src="https://github.com/user-attachments/assets/e854196a-7232-4910-b431-8e19ffc00f60" />
+   
 https://www.youtube.com/watch?v=9HroWtVvuFg  
 
 - **Beautiful** Conway's Game of life. With COLORS!  
-<img src="https://github.com/user-attachments/assets/1391fc1a-cf63-4319-8d2e-fbd217bab837" width="400" height="240">            
+<img src="https://github.com/user-attachments/assets/1391fc1a-cf63-4319-8d2e-fbd217bab837" width="400" height="240">
+  
 https://www.youtube.com/watch?v=0e2diY_aYDI&t=6s  
 
 - Risk-type **online multiplayer** game (WIP, 2 person collaboration, my main job is back-end)  
