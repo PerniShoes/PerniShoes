@@ -7,7 +7,8 @@
 I am an always **smiling** and endlessly **dedicated** **C++** Developer looking to **contribute** to something **meaningful**.  
 I bring strong **communication** and **collaboration** abilities, I enjoy working both in a **team** and **independently**.  
   
-If you have any projects where I could be a **good fit** and help with **project delivery**, I’d **love** to hear from you :) Feel free to send me an email or a LinkedIn DM :)
+If you have any projects where I could be a **good fit** and help with **project delivery**, I’d **love** to hear from you :)  
+Feel free to send me an email or a LinkedIn DM :)
 ### Check out my repositories pinned below! 😊  
 #
 ### Contact info:  
